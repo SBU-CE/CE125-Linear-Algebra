@@ -1,7 +1,7 @@
 # Linear Algebra
 
 <p align="center">
-  <img src="https://github.com/SBU-CE/Linear-Algebra/blob/main/img/course-logo.png" width="200" height="200">	
+  <img src="https://github.com/SBU-CE/Linear-Algebra/blob/main/img/course-logo.png">	
 </p>
 
 ## Introduction
@@ -21,7 +21,7 @@ bioinformatics and neuroscience.
  - [Narges Ghasemi](https://github.com/NNargesNN)
  - [Peyman Alavi](https://github.com/peyman-alv)
 
- ### Course links
+ ### Links
 
  - Telegram Channel: https://t.me/LA_Fall2021
- - quera: https://quera.ir/overview/add_to_course/course/9190
+ - Quera: https://quera.ir/overview/add_to_course/course/9190
