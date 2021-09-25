@@ -11,4 +11,4 @@ All you need is NumPy!
 ## Links
 
  - Class video: [Link](https://t.me/LA_Fall2021/12)
- - Slide: [Link](https://github.com/SBU-CE/Linear-Algebra/blob/main/01_intro-to-numpy/01_Intro-to-numpy.pdf)
+ - Slides: [Link](https://github.com/SBU-CE/Linear-Algebra/blob/main/01_intro-to-numpy/01_Intro-to-numpy.pdf)
