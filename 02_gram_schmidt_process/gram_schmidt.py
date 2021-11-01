@@ -1,3 +1,7 @@
+'''
+	author: Amir Arshia Adiban
+'''
+
 import numpy as np
 
 def coeff(vi, v):
