@@ -1,7 +1,7 @@
 # Linear Algebra
 
 <p align="center">
-  <img src="https://github.com/SBU-CE/Linear-Algebra/blob/main/img/course-logo.png">	
+  <img src="https://github.com/SBU-CE/Linear-Algebra/blob/main/img/Banner.png">	
 </p>
 
 ## Introduction
@@ -16,12 +16,17 @@ bioinformatics and neuroscience.
   Dr. Hamed Malek 
 
 ### TAs: 
- - [Mohammad Hashemi](https://github.com/mohammadhashemii)
+
  - [Hanieh Mahdavi](https://github.com/haniehm26)
- - [Narges Ghasemi](https://github.com/NNargesNN)
- - [Peyman Alavi](https://github.com/peyman-alv)
+ - [Alireza Binayiaan](https://github.com/alireza00bin)
+ - [Maedeh Dehghan](https://github.com/unofficialbug)
+ - [Mahdieh Moghiseh](https://github.com/MahdiehMoghiseh)
+ - [Kamyab Abedi](https://github.com/KamyabAbedi)
+
+
+#### Special thanks:
+ - [Peyman Alavi](https://github.com/peyman-alv) , [Narges Ghasemi](https://github.com/NNargesNN), [Mohammad Hashemi](https://github.com/mohammadhashemii)
 
  ### Links
 
- - Telegram Channel: https://t.me/LA_Fall2021
- - Quera: https://quera.ir/overview/add_to_course/course/9190
+ - Telegram Channel: https://t.me/la_winter2022
