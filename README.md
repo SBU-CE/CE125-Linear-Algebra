@@ -21,6 +21,7 @@ bioinformatics and neuroscience.
  - [Alireza Binayiaan](https://github.com/alireza00bin)
  - [Kamyab Abedi](https://github.com/KamyabAbedi)
  - [Mahdieh Moghiseh](https://github.com/MahdiehMoghiseh)
+ - [Sana Mousavi](https://github.com/sanoooavi)
 
 
 #### Special thanks:
