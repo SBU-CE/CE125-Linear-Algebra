@@ -19,9 +19,8 @@ bioinformatics and neuroscience.
 
  - [Hanieh Mahdavi](https://github.com/haniehm26)
  - [Alireza Binayiaan](https://github.com/alireza00bin)
- - [Maedeh Dehghan](https://github.com/unofficialbug)
- - [Mahdieh Moghiseh](https://github.com/MahdiehMoghiseh)
  - [Kamyab Abedi](https://github.com/KamyabAbedi)
+ - [Mahdieh Moghiseh](https://github.com/MahdiehMoghiseh)
 
 
 #### Special thanks:
