@@ -1,7 +1,7 @@
 # Linear Algebra
 
 <p align="center">
-  <img src="https://github.com/SBU-CE/Linear-Algebra/blob/main/img/Banner.png">	
+  <img src="https://github.com/SBU-CE/Linear-Algebra/blob/main/Winter_2022/img/Banner.png">	
 </p>
 
 ## Introduction
