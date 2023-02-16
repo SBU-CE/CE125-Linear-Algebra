@@ -1,7 +1,7 @@
 # Linear Algebra (CE125)
 
 <p align="center">
-  <img src="https://github.com/SBU-CE/Linear-Algebra/blob/main/Winter_2022/img/Banner.png">	
+  <img src="https://github.com/SBU-CE/Linear-Algebra/blob/main/2022 - Spring/img/Banner.png">	
 </p>
 
 ## Introduction
