@@ -17,7 +17,7 @@ We hope that this repository will be a valuable resource for you throughout the 
 ### Course Instructor:
 [Dr. Hamed Malek](https://scholar.google.com/citations?user=_IIio8oAAAAJ&hl=en)
 
-### TAs: 
+### Current TAs: 
 
  - [Hanieh Mahdavi](https://github.com/haniehm26)
  - [Alireza Binayiaan](https://github.com/alireza00bin)
@@ -26,6 +26,6 @@ We hope that this repository will be a valuable resource for you throughout the 
  - [Sana Mousavi](https://github.com/sanoooavi)
 
 
-#### Special thanks:
+#### Past TAs:
  - [Peyman Alavi](https://github.com/peyman-alv) , [Narges Ghasemi](https://github.com/NNargesNN), [Mohammad Hashemi](https://github.com/mohammadhashemii)
 
